@@ -6,49 +6,49 @@
     - High HP
     - Better hit chance 
     - Low dodge
-    - If hit twice, next attack will crit. <--- ???
+    
 
 2) Paladin
   Roles
-    - Mixes Tank and Healer
+    - Tank
+    - Fire magic
   Attriubites 
     - High HP
     - Mid Chance to get hit
     - Mid chance to hit enemy 
-    - If two teammates are below 30%, chance to heal teammates. <--- ???
+    
 
 3) Range
   Roles
     - DPS 
       *Bow
-      *Gune
   Attriubites 
     - Low Hp
     - High chance to hit enemy
     - low chance to get hit by enemy
-    - ???
+    
 
 4) Mage
   Roles
     - DPS
       * General Spells
-      * Arcane(star magic) magic <--- ???
+      * Arcane magic 
   Attriubites 
     - Mid Hp
     - High chance to hit 
     - Low chance to get hit
-    - If teammates takes a critical hit by low health enemy, chance to mirror damage <---
+    
 
 5) Frost Mancer
   Roles
     - DPS
-      * Ice
-      * Fire
+      * Ice magic
+      * Guns
   Attriubites 
     - Mid Hp
     - High chance to hit 
     - Neutral (50/50) chance to get hit
-    - If enemy is hit with both elemental spells, causes medium damage to enemies around <--- ???
+    
 
 
 
