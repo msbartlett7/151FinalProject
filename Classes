@@ -1,0 +1,63 @@
+1) Warrior
+  Roles 
+    - Tank
+    - DPS
+  Attributes  
+    - High HP
+    - Better hit chance 
+    - Low dodge
+    
+
+2) Paladin
+  Roles
+    - Tank
+    - Fire magic
+  Attriubites 
+    - High HP
+    - Mid Chance to get hit
+    - Mid chance to hit enemy 
+    
+
+3) Range
+  Roles
+    - DPS 
+      *Bow
+  Attriubites 
+    - Low Hp
+    - High chance to hit enemy
+    - low chance to get hit by enemy
+    
+
+4) Mage
+  Roles
+    - DPS
+      * General Spells
+      * Arcane magic 
+  Attriubites 
+    - Mid Hp
+    - High chance to hit 
+    - Low chance to get hit
+    
+
+5) Frost Mancer
+  Roles
+    - DPS
+      * Ice magic
+      * Guns
+  Attriubites 
+    - Mid Hp
+    - High chance to hit 
+    - Neutral (50/50) chance to get hit
+    
+
+
+
+
+
+
+
+
+
+
+
+
